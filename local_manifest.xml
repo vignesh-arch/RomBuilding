@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/spes" name="vignesh-arch/device_xiaomi_spes.git" remote="github" revision="snow" />
+ <project path="vendor/spes" name="vignesh-arch/vendor_xiaomi_spes.git" remote="github" revision="12" />
+ <project path="kernel/spes" name="vignesh-arch/kernel_xiaomi_spes.git" remote="github" revision="main" />
+ 
+</manifest>
